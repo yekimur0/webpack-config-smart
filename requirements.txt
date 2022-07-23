@@ -1,0 +1,11 @@
+webpack - сборщик проектов (imports/exports)
+  Babel
+  SCSS
+  Eslint
+  2 MODES
+    -DEV MODES
+      DEV SERVER, SOURCEMAPS, ESLINT, NOT MINIFED JS & CSS
+    -PROD MODES
+      MINIFIED CODE
+git
+
