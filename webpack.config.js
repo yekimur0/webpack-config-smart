@@ -35,7 +35,7 @@ module.exports = (env, argv) => {
    basePlugins.push(new ESLintPlugin())
   }
 
-  return plugins();
+  return basePlugins;
  }
 
  return {
