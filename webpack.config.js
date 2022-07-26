@@ -88,7 +88,8 @@ module.exports = (env, argv) => {
         options: {
           presets: [
                 ['@babel/preset-env', {targets: 'defaults'}]
-          ]
+          ],
+          plugins: ['@babel/plugin-proposal-class-properties']
         }
       }
     }

@@ -13,6 +13,9 @@ module.exports = {
   'semi': 'off',
   'comma-dangle': 'off',
   'indent': 'off',
-  'no-trailing-spaces': 'off'
+  'no-trailing-spaces': 'off',
+  'object-curly-spacing': 'off',
+  'require-jsdoc': 'off',
+  'padded-blocks': 'off'
  }
 }
